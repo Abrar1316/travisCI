@@ -5,5 +5,5 @@ deploy:
   provider: s3                         
   access_key_id: "YOUR AWS ACCESS KEY"
   secret_access_key: "D98Q4kWAUj2ogCeTOl9zTguDALNiSRSxtIIxnC1a"
-  bucket: "YOUR BUCKET"
+  bucket: "travispipeline"
   acl: public_read
